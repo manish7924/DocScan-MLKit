@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.XDocScanner" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="MySplashScreen" parent="Theme.XDocScanner" >
+        <item name="android:windowSplashScreenAnimatedIcon" tools:targetApi="s">@drawable/app_icon</item>
+        <item name="android:windowSplashScreenBackground" tools:targetApi="s">@color/white</item>
+        <item name="android:windowSplashScreenAnimationDuration" tools:targetApi="s">2000</item>
+<!--        <item name="postSplashScreenTheme">@style/Theme.XDocScanner</item>-->
+    </style>
+</resources>

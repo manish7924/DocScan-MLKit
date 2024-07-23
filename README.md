@@ -55,7 +55,7 @@
    ```sh
    git clone https://manish7924/DocScan-MLKit.git
 
-2. *Open the project in Android Studio:
+2. **Open the project in Android Studio:**
 
    ```sh
    cd doc-scanner

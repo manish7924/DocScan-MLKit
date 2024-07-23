@@ -1,6 +1,4 @@
-Simple docs scanner build with Googl's ML-kit library in jetpack compose 
-
-# Doc Scanner
+ # Doc Scanner
 
 **Doc Scanner** is a powerful and intuitive document scanning application designed for Android devices using Jetpack Compose. This app enables users to scan, manage, and share documents effortlessly, leveraging cutting-edge technologies to provide a robust and user-friendly experience.
 
@@ -56,7 +54,7 @@ Simple docs scanner build with Googl's ML-kit library in jetpack compose
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/doc-scanner.git
+   git clone https://manish7924/DocScan-MLKit.git
 
 2. *Open the project in Android Studio:
 

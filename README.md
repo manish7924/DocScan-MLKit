@@ -3,6 +3,11 @@
 **X Doc Scanner** is a powerful and intuitive document scanning application designed for Android devices using Jetpack Compose. This app enables users to scan, manage, and share documents effortlessly, leveraging cutting-edge technologies to provide a robust and user-friendly experience.
 
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/manish7924/DocScan-MLKit/master/xdocscan_img.jpg)
+
+
 ## Features
 
 - **High-Quality Scanning:** Capture documents with exceptional clarity using advanced image processing.
@@ -28,9 +33,6 @@
 3. **Manage Documents:** Organize your documents by renaming, removing, and viewing them directly in the app.
 4. **Share Documents:** Easily share your scanned documents via email, messaging apps, or other platforms.
 
-## Screenshots
-
-![App Screenshot](https://raw.githubusercontent.com/manish7924/DocScan-MLKit/master/xdocscan_img.jpg)
 
 ## Technology Used
 

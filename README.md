@@ -84,4 +84,4 @@ If you have any questions, suggestions, or feedback, please feel free to reach o
 Email: manishchidar79@gmail.com
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/manish7924/DocScan-MLKit/blob/main/LICENSE) for more details.

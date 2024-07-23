@@ -66,16 +66,16 @@ Open Android Studio and select "Open an existing Android Studio project." Naviga
 
 Click the "Run" button in Android Studio to build and deploy the app on your connected device or emulator.
 
-#Contributing
+## Contributing
 
 We welcome contributions from the community! If you'd like to contribute, please follow these steps:Fork the repository.Create a new branch for your feature or bug fix.Commit your changes and push them to your branch.Create a pull request with a detailed description of your changes.
 Please ensure your code adheres to the project's coding standards and includes appropriate tests.
 
-#Contact
+## Contact
 
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
 Email: manishchidar79@gmail.com
 
-#License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more details.

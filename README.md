@@ -82,6 +82,8 @@ We welcome contributions from the community! If you'd like to contribute, please
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
 **Developer:** [Manish Chidar](https://manish7924.github.io/My-Portfolio/)
+
+
 **Email:** manishchidar79@gmail.com
 
 ## License

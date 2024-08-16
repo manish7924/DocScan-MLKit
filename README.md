@@ -81,7 +81,8 @@ We welcome contributions from the community! If you'd like to contribute, please
 
 If you have any questions, suggestions, or feedback, please feel free to reach out:
 
-Email: manishchidar79@gmail.com
+**Developer:** [Manish Chidar](https://manish7924.github.io/My-Portfolio/)
+**Email:** manishchidar79@gmail.com
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](https://github.com/manish7924/DocScan-MLKit/blob/main/LICENSE) for more details.

@@ -5,7 +5,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://raw.githubusercontent.com/manish7924/DocScan-MLKit/master/xdocscan_img.jpg)
+![App Screenshot](https://raw.githubusercontent.com/manish7924/DocScan-MLKit/master/app/src/main/res/drawable/1.jpg)
 
 
 ## Features
